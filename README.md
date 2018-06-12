@@ -1,8 +1,8 @@
-# Sistema Aluguel de Veiculo em ASP.Net
+# Sistema de Locação de Veiculo em ASP.Net
 
 Projeto em ASP.Net
 
-Aluguel de veiculo
+Locação de veiculo
 
 •	O programa irá permitir a realização interativa das operações, exibindo um menu com as operações disponíveis para escolha do usuário ao término de cada operação. O programa deve terminar quando o usuário escolher uma opção para sair. 
 
