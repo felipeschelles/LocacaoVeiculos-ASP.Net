@@ -161,7 +161,7 @@
     </Compile>
     <Compile Include="Models\MVC\Cliente.cs" />
     <Compile Include="Models\MVC\Usuario.cs" />
-    <Compile Include="Models\MVC\Veiculocs.cs" />
+    <Compile Include="Models\MVC\Veiculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

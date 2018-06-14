@@ -5,7 +5,7 @@ using System.Web;
 
 namespace LocacaoVeiculos.Models.MVC
 {
-    public class Veiculocs
+    public class Veiculo
     {
 
         public int VeiculoID { get; set; }
