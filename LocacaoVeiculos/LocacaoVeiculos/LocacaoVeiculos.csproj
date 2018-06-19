@@ -162,6 +162,7 @@
     <Compile Include="Models\Cliente.cs" />
     <Compile Include="Models\DAL\MeuContexto.cs" />
     <Compile Include="Models\Endereco.cs" />
+    <Compile Include="Models\Locacao.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Models\Veiculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

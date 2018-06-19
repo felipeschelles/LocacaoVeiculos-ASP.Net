@@ -5,7 +5,7 @@ using System.Web;
 
 namespace LocacaoVeiculos.Models.DAL
 {
-   /* public class MeuContexto : DbContext
+    public class MeuContexto : DbContext
     {
         public MeuContexto() : base("strConn")
         {
@@ -21,8 +21,11 @@ namespace LocacaoVeiculos.Models.DAL
 
 
         public DbSet<Usuario> Usuarios { get; set; }
-        public DbSet<Categoria> Categorias { get; set; }
-        public DbSet<Atividade> Atividades { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Endereco> Enderecos { get; set; }
+        public DbSet<Veiculo> Veiculos { get; set; }
 
-    }*/
+        public DbSet<Locacao> Locacoes { get; set; }
+
+    }
 }
