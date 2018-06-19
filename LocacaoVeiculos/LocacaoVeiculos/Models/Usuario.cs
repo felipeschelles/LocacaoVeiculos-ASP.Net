@@ -12,7 +12,9 @@ namespace LocacaoVeiculos.Models.MVC
         [Required, StringLength(30)]
         public string Nome { get; set; }
 
-        public bool Ativo { get; set; }
+        public int Cpf { get; set; }
+
+
 
     }
 }

@@ -17,5 +17,11 @@ namespace LocacaoVeiculos.Models.MVC
         public string Cor { get; set; }
 
         public int Ano { get; set; }
+
+        public string Categoria { get; set; }
+
+        public string Combustivel { get; set; }
+
+        public string Detalhes { get; set; }
     }
 }

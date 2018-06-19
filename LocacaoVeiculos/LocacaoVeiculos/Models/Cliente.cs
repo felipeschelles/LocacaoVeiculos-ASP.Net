@@ -14,7 +14,15 @@ namespace LocacaoVeiculos.Models.MVC
 
         public int Cpf { get; set; }
 
-        public bool Ativo { get; set; }
+        public string DtNascimento { get; set;}
+
+        public int EnderecoID { get; set; }
+
+        public virtual Endereco _Endereco { get; set; }
+
+
+
+
 
     }
 }
