@@ -1,4 +1,4 @@
-﻿using LocacaoVeiculos.Models;
+﻿/* using LocacaoVeiculos.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -62,4 +62,4 @@ namespace LocacaoVeiculos.Controllers
         }
 
     }
-}
+} */
