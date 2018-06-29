@@ -26,5 +26,7 @@ namespace LocacaoVeiculos.Models
         public string Detalhes { get; set; }
 
         public string Versao { get; set; }
+
+        public string Status { get; set; }
     }
 }
